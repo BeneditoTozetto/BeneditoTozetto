@@ -5,8 +5,8 @@ Me chamo Benedito Alcides Tozetto jr, tecnólogo em análise e desenvolvimento d
 <hr>
 <div>
       <a href="https://github.com/BeneditoTozetto">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeneditoTozetto&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeneditoTozetto&layout=compact&langs_count=7&theme=shades-of-purple"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeneditoTozetto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeneditoTozetto&layout=compact&langs_count=7&theme=react"/>
  </div>
   <hr>
 <div style="display: inline_block"><br>
