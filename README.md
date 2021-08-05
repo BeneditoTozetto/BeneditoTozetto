@@ -1,5 +1,7 @@
 ### Hello !! 😁 Bem vindo ao meu github!! 👍
-Me chamo Benedito Alcides Tozetto jr, tecnólogo em análise e desenvolvimento de sistemas pela Universidade Anhanguera, Campus Marte.
+Me chamo Benedito Alcides Tozetto jr,<br> 
+tecnólogo em análise e desenvolvimento de sistemas 
+pela Universidade Anhanguera, Campus Marte.
 
 
 <hr>
@@ -7,7 +9,8 @@ Me chamo Benedito Alcides Tozetto jr, tecnólogo em análise e desenvolvimento d
       <a href="https://github.com/BeneditoTozetto">
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeneditoTozetto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeneditoTozetto&layout=compact&langs_count=7&theme=react"/>
- </div>
+            
+      
   <hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,8 +29,6 @@ Me chamo Benedito Alcides Tozetto jr, tecnólogo em análise e desenvolvimento d
   <div>
   <a href="https://www.linkedin.com/in/benedito-alcides-tozetto-júnior-810482164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
-  <div>
-   
-  </div>
- 
+          
+
+            
